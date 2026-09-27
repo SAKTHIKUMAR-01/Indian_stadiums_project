@@ -1,0 +1,7 @@
+# Build artifacts
+src/*.o
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,36 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Stadium System (Make)",
+      "type": "shell",
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "set PATH=C:\\msys64\\ucrt64\\bin;C:\\msys64\\usr\\bin;%PATH% && make"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Clean & Rebuild Stadium System",
+      "type": "shell",
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "set PATH=C:\\msys64\\ucrt64\\bin;C:\\msys64\\usr\\bin;%PATH% && make clean && make"
+      ],
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Run Python Visualizations",
+      "type": "shell",
+      "command": "python",
+      "args": ["python/visualize.py"],
+      "problemMatcher": []
+    }
+  ]
+}

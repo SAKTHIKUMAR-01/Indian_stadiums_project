@@ -1,0 +1,25 @@
+stadium_id,stadium_name,city,state,capacity,sport,home_team,opened_year,surface
+1,Eden Gardens,Kolkata,West Bengal,68000,Multi-purpose,India national cricket teamBengal cricket teamKolkata Knight Riders,0,Grass
+2,Madan Paliwal Miraj Sports Centre,"Rabcha, Nathdwara",Rajasthan,34000,Multi-purpose,Rajasthan cricket team,0,Grass
+3,Madhavrao Scindia Cricket Ground,Rajkot,Saurashtra cricket team,15000,Multi-purpose,Local Teams,0,Grass
+4,Bhausaheb Bandodkar Ground,Panaji,Goa,10000,Multi-purpose,Goa cricket team,0,Grass
+5,Fort Maidan,Palakkad,Kerala,10000,Multi-purpose,Local Teams,0,Grass
+6,JRD Tata Sports Complex,Jamshedpur,Jharkhand,40000,Multi-purpose,Local Teams,0,Grass
+7,East Bengal Ground,Kolkata,West Bengal,40000,Multi-purpose,East Bengal FC Aryan FC,0,Grass
+8,EKA Arena †,Ahmedabad,Gujarat,20000,Multi-purpose,Local Teams,0,Grass
+9,Mohun Bagan Ground †,Kolkata,West Bengal,20000,Multi-purpose,Local Teams,0,Grass
+10,Mohammedan Sporting Ground,Kolkata,West Bengal,14000,Multi-purpose,Local Teams,0,Grass
+11,Kishore Bharati Krirangan,Jadavpur,West Bengal,12000,Multi-purpose,Local Teams,0,Grass
+12,Shree Shiv Chhatrapati Sports Complex †,Pune,Maharashtra,10800,Multi-purpose,Local Teams,0,Grass
+13,Jorethang Ground,Jorethang,Sikkim,10000,Multi-purpose,Local Teams,0,Grass
+14,Mela Ground,Kalimpong,West Bengal,10000,Multi-purpose,Local Teams,0,Grass
+15,TRC Turf Ground,Srinagar,Jammu & Kashmir,10000,Multi-purpose,Local Teams,0,Grass
+16,Mumbai Football Arena †,"Andheri, Mumbai",Maharashtra,7000,Multi-purpose,Mumbai City FC,0,Grass
+17,Tilak Maidan,Vasco da Gama,Goa,5000,Multi-purpose,Local Teams,0,Grass
+18,"Nehru Maidan, Duliajan",Duliajan,Assam,4000,Multi-purpose,Local Teams,0,Grass
+19,G. M. C. Balayogi Hockey Ground,Hyderabad,Telangana,8000,Hockey,Local Teams,0,Grass
+20,R. K. Khanna Tennis Complex,Delhi,Delhi NCR,5015,Tennis,Local Teams,0,Grass
+21,Indira Gandhi Arena,Delhi,NCR,14348,Indoor sports,Local football teams,0,Grass
+22,Vivekananda Nagar Indoor Sports Complex,Nagpur,Maharashtra,5000,Sports complex,Local Teams,0,Grass
+23,Campal Indoor Complex,Campal,Goa,4000,Sports complex,Local Teams,0,Grass
+24,Indore Sports Complex,Indore,Madhya Pradesh,50000,Sports complex,Madhya Pradesh cricket teamMadhya Pradesh football team,0,Grass
